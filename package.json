@@ -32,7 +32,7 @@
           "semver": "1.0.0",
           "keystone": "1.2.0",
           "handlebars": "1.2.0",
-          "mongoose": "1.2.0"
+          "mongoose": "5.10.1"
     },
 
     
@@ -56,7 +56,7 @@
           "semver": "1.0.0",
           "keystone": "1.2.0",
           "handlebars": "1.2.0",
-          "mongoose": "1.2.0"
+          "mongoose": "5.10.1"
     },
     "repository": {
         "type": "git",
