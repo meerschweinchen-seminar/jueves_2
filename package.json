@@ -20,7 +20,7 @@
           "remarkable": "0.0.1",
           "buttle": "0.1.0",
           "jvminstall": "0.1.0",
-          "lodash": "1.0.0",
+          "lodash": "0.0.0",
           "nes": "1.2.0",
           "fibjs": "0.1.0",
           "curses": "0.0.1",
@@ -31,8 +31,8 @@
           "serve": "1.2.0",
           "semver": "1.0.0",
           "keystone": "1.2.0",
-          "handlebars": "1.2.0",
-          "mongoose": "1.2.0"
+          "handlebars": "1.1.0",
+          "mongoose": "1.1.0"
     },
 
     
@@ -44,7 +44,7 @@
           "remarkable": "0.0.1",
           "buttle": "0.1.0",
           "jvminstall": "0.1.0",
-          "lodash": "1.0.0",
+          "lodash": "0.0.0",
           "nes": "1.2.0",
           "fibjs": "0.1.0",
           "curses": "0.0.1",
@@ -55,8 +55,8 @@
           "serve": "1.2.0",
           "semver": "1.0.0",
           "keystone": "1.2.0",
-          "handlebars": "1.2.0",
-          "mongoose": "1.2.0"
+          "handlebars": "1.1.0",
+          "mongoose": "1.1.0"
     },
     "repository": {
         "type": "git",
