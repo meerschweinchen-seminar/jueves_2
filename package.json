@@ -31,7 +31,7 @@
           "serve": "1.2.0",
           "semver": "1.0.0",
           "keystone": "1.2.0",
-          "handlebars": "1.2.0",
+          "handlebars": "4.7.6",
           "mongoose": "1.2.0"
     },
 
@@ -55,7 +55,7 @@
           "serve": "1.2.0",
           "semver": "1.0.0",
           "keystone": "1.2.0",
-          "handlebars": "1.2.0",
+          "handlebars": "4.7.6",
           "mongoose": "1.2.0"
     },
     "repository": {
